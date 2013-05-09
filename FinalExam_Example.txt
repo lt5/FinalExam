@@ -1,0 +1,1 @@
+This is an example to demonstrate usage of git for the final exam
